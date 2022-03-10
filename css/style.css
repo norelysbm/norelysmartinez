@@ -62,7 +62,7 @@ html,body{
     padding: 16px 0 16px 0;
     text-transform: uppercase;
     text-decoration: underline;
-
-
-
+}
+p{
+    font-family:'Share Tech Mono', monospace;
 }
