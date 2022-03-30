@@ -19,7 +19,7 @@ html,body{
     }
 
     header{
-        background-image: url(https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif);
+        background-image: url(https://wallpaperwaifu.com/wp-content/uploads/2019/11/pixel-night-room-thumb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -88,3 +88,14 @@ html,body{
 p{
     font-family:'Share Tech Mono', monospace;
 }
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    size:cover;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
